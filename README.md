@@ -17,8 +17,8 @@ Dataset: HR dataset containing employee information, survey scores, and attritio
 
 ## Tool Used
 
-Data Visualization: Tableau Public
-Data Source: HR Dataset (uploaded to GitHub)
+- Data Visualization: Tableau Public
+- Data Source: HR Dataset (uploaded to GitHub)
 
 ## Business Objectives
 
@@ -93,7 +93,7 @@ Recent departures are predominantly from the Sales department, with common facto
 - Visualization: Developed interactive dashboards in Tableau to present findings.
 - Insight Generation: Derived actionable insights to inform HR strategies.
 
-Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
